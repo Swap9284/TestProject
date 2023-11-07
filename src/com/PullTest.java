@@ -6,6 +6,7 @@ public class PullTest {
           System.out.println("Pull first time");
           System.out.println("Second time push");
           System.out.println("third time push");
+          System.out.println("fouth type push to eclipse ");
 	}
 
 }
